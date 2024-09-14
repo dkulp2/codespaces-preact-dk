@@ -14,7 +14,19 @@
       "openFiles": [
         "src/index.jsx"
       ]
-    }
+    },
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "GitHub.copilot",
+        "GitHub.copilot-chat"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+     },
   },
   "portsAttributes": {
     "5173": {
